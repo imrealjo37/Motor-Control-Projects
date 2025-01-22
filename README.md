@@ -64,9 +64,6 @@ DC-Motor-Control-Projects/
 
 5. Follow the circuit diagram in the `Images` folder for hardware setup.
 
-## 🖼️ Images
-- Circuit diagrams and project images are available in the respective `Images/` folders for each project. 📷
-
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and share! ✨ See the [LICENSE](LICENSE) file for details.
 
