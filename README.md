@@ -26,15 +26,15 @@ Welcome to the **DC Motor Control Projects** repository! This repo showcases two
 ```
 DC-Motor-Control-Projects/
 ├── TinkerCAD/
-│   ├── Code/
-│   │   └── code_tinkercad.ino
-│   └── Images/
-│       └── tinkercad_diagram.png
+│   ├──code_tinkercad.ino
+│   │  
+│   └── tinkercad_diagram.png
+│   
 ├── RealWorld/
-    ├── Code/
-    │   └── code_hw130.ino
-    └── Images/
-        └── hw130_diagram.png
+    ├── code_hw130.ino
+    │   
+    └── hw130_diagram.png
+
 ```
 
 ## 🔌 Components Used
