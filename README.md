@@ -56,7 +56,7 @@ DC-Motor-Control-Projects/
    git clone https://github.com/imrealjo37/Motor-Control-Projects.git
    ```
 
-2. Navigate to the desired project directory (`TinkerCAD` or `RealWorld`).
+2. Navigate to the desired project directory (['TinkerCAD'](./TinkerCAD).` or ['RealWorld'](./RealWorld).
 
 3. Open the Arduino code (`.ino` file) in the Arduino IDE.
 
@@ -69,3 +69,6 @@ DC-Motor-Control-Projects/
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and share! ✨ See the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+Created by Jood. Feel free to contribute or suggest improvements to the project!
